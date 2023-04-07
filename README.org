@@ -1,0 +1,7 @@
+#+TITLE: EMetshaf
+#+AUTHOR: Mubarek Seid Juhar
+#+EMAIL: mubareksd@gmail.com
+#+DATE: <2023-04-07 Fri>
+#+DESCRIPTION: frontend for emetshaf platform
+#+KEYWORD: emetshaf
+#+LANGUAGE: en
